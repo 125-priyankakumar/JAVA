@@ -1,7 +1,6 @@
                                                                     CORE JAVA
 Eclipse - https://www.eclipse.org/downloads/packages/release/oxygen/3a/eclipse-ide-java-ee-developers
-Java – 
- https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe
+Java –  https://download.oracle.com/java/19/latest/jdk-19_windows-x64_bin.exe
 JAVA INTRODUCTION
 •	Java is a simple programing language
 •	Writing, compilation and debugging a program is very easy in java
